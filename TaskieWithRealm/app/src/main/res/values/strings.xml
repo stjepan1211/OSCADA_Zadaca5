@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Taskie</string>
+    <string name="newTask_title_hint">Enter title</string>
+    <string name="newTask_description_hint">Enter description</string>
+    <string name="sort">sort</string>
+    <string name="newCategory_value_hint">Enter category:</string>
+    <string name="addCategory">Add category</string>
+    <string name="newTask_predefined_category">Predefined category</string>
+</resources>
